@@ -1,25 +1,23 @@
 <h1 align="center">Hi 👋, I'm Mostafa Moknaa</h1>
-<h3 align="center">A passionate Full-Stack Developer From Egypt</h3>
+<h3 align="center">A passionate Software Engineer From Egypt</h3>
 
-<p align="left"> <img src="https://www.apptunix.com/blog/wp-content/uploads/sites/3/2019/02/php-3.jpg" alt="mostafamoknaa" /> </p>
+<p align="left"> <img src="https://drive.google.com/file/d/1300nZtDld-sX_BEyfyYil1Vsr4HS5MJ0/view?usp=sharing" alt="mostafamoknaa" /> </p>
 
-- 🔭 I’m currently working on **Realtime Chat**
+- 🔭 I’m currently working on **E-Commerce App**
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **System Design**
 
-- 🤝 I’m looking for help with **Any Project**
-
-- 💬 Ask me about **PHP , Laravel , My SQL , SQL Server ,C++ , Python**
+- 💬 Ask me about **PHP , Laravel , Node , React , Next.js , My SQL , SQL Server ,C++ , Python**
 
 - 📫 How to reach me **mostafamokn78@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1EZL2ij4mF91V9FnaduWgbYqpOKq52Krv/view?usp=sharing](https://drive.google.com/file/d/1EZL2ij4mF91V9FnaduWgbYqpOKq52Krv/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1UmynFyfK-z_ywEhkLNg5FBsjT6UZWRoF/view?usp=sharing]([https://drive.google.com/file/d/1EZL2ij4mF91V9FnaduWgbYqpOKq52Krv/view?usp=sharing](https://drive.google.com/file/d/1UmynFyfK-z_ywEhkLNg5FBsjT6UZWRoF/view?usp=sharing)
 
 - ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mostafamoknaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostafamoknaa" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/mostafa-moknaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostafamoknaa" height="30" width="40" /></a>
 <a href="https://fb.com/mostafa moknaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mostafa moknaa" height="30" width="40" /></a>
 </p>
 
